@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Virat",
+        "location": "India",
+        "education": "Btech"
+    },
+    {
+        "name": "Smith",
+        "address": "Australia",
+        "education": "B.a"
+    },
+    {
+        "name": "Steyn",
+        "location": "South Africa",
+        "education": "Bca"
+    }
+]
